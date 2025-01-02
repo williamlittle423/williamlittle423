@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-I'm passionate about data science, AI, medical sciences, software engineering, and making a positive impact on society with a love. When I'm not coding, you can find me skateboarding, DJ'ing, pondering, or studying.
-
 I believe data has the power to shape a better future for society. As a developer and problem solver, I turn complex challenges into meaningful opportunies through machine learning, AI, and software engineering.
+
+When I'm not coding, you can find me skateboarding, DJ'ing, pondering the purpose of life, or studying!
 
 ## 🛠️ Skills & Technologies
 
