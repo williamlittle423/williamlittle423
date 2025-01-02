@@ -1,7 +1,7 @@
 ---
 # 👋 Hi there, I'm William Little!
 
-![Banner]([https://www.williamlittle.dev](https://github.com/williamlittle423/williamlittle423/assets/profile_pic_1.jpg))
+![Banner](https://github.com/williamlittle423/williamlittle423/assets/profile_pic_1.jpg)
 
 ## 🚀 About Me
 
