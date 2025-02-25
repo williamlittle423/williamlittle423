@@ -7,8 +7,6 @@
 
 I believe data has the power to shape a better future for society. As a developer and problem solver, I turn complex challenges into meaningful opportunies through machine learning, AI, and software engineering.
 
-When I'm not coding, you can find me skateboarding, DJ'ing, or studying!
-
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, C++, SQL, Bash, Javascript, Swift
