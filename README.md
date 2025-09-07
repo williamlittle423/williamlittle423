@@ -1,7 +1,7 @@
 ---
 # 👋 Hi there, I'm William Little!
 
-<img src="https://github.com/williamlittle423/williamlittle423/blob/main/assets/GSO_ProfileF251-5.jpg" alt="Profile Photo" width="300"/>
+<img src="https://github.com/williamlittle423/williamlittle423/blob/main/assets/GSO_ProfileF251-5.jpg" alt="Profile Photo" width="420"/>
 
 ## 🚀 About Me
 
