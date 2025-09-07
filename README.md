@@ -17,7 +17,7 @@ I believe data has the power to shape a better future for society. As a develope
 ### 1st Place at North American Collegiate Exoskeleton Competition - Queen's Biomechatronics Team  _(MAY 2025)_
 - Led a team of 50+ students to win 1st place at the North American Exoskeleton Competition.
 <img src="https://github.com/williamlittle423/williamlittle423/blob/main/assets/QBMET.jpg" alt="QBMET_Photo" width="420"/>
-- **[GitHub Repository]([https://github.com/williamlittle423/asl-translation-glove](https://github.com/williamlittle423/qbmet-software))** | **[LinkedIn Post]([https://www.linkedin.com/feed/update/urn:li:activity:7273132345153462272/](https://www.linkedin.com/feed/update/urn:li:activity:7330623746350739456/))**
+- **[GitHub Repository](https://github.com/williamlittle423/qbmet-software)** | **[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7330623746350739456/)**
 
 ## 📫 Get in Touch
 
